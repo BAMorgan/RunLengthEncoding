@@ -60,7 +60,4 @@ This project implements **Run-Length Encoding (RLE)**, a basic data compression 
 **Input:** `"3a1b" vs. "2a1a1b"`  
 **Result:** `false`
 
-## Future Improvements
-- Extend support for **multi-character sequences**.
-- Implement **Huffman Encoding** for better compression.
-- Optimize for large-scale datasets.
+
